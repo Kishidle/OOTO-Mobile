@@ -1,0 +1,208 @@
+^,a2,Birthdate
+a,9, 9-11
+a,10, 9-11
+a,11, 9-11
+b,12, 12-14
+b,13, 12-14
+b,14, 12-14
+c,15, 15-17
+c,16, 15-17
+c,17, 15-17
+^,a3a,Mother
+a,0, No
+b,1, Yes
+^,a3b,Father
+a,0, No
+b,1, Yes
+^,a3c,Step or foster mother
+a,0, No
+b,1, Yes
+^,a3d,Step or foster father
+a,0, No
+b,1, Yes
+^,a3e,Grandparent(s) or other relatives
+a,0, No
+b,1, Yes
+^,a3f,Siblings (including half; step or foster siblings)
+a,0, No
+b,1, Yes
+^,a3g,My spouse or partner (including boyfriend/girlfriend)
+a,0, No
+b,1, Yes
+^,a3h,My child or children
+a,0, No
+b,1, Yes
+^,a3i,Parents (or relatives) of my spouse or partner
+a,0, No
+b,1, Yes
+^,a3j,I live in a foster home or children's home
+a,0, No
+b,1, Yes
+^,a3k,I live alone
+a,0, No
+b,1, Yes
+^,a3l,Someone or somewhere else: please state____
+a,0, No
+b,1, Yes
+^,a4a,I am a school student
+a,0, No
+b,1, Yes
+^,a4g,I am a student in college
+a,0, No
+b,1, Yes
+^,a4h,I am attending training in technical/vocational course
+a,0, No
+b,1, Yes
+^,a4c,I do paid employment
+a,0, No
+b,1, Yes
+^,a4d,I do unpaid work
+a,0, No
+b,1, Yes
+^,a4e,I am looking for work
+a,0, No
+b,1, Yes
+^,a4f,I help out at home
+a,0, No
+b,1, Yes
+^,a4i,I am currently in a vacation
+a,0, No
+b,1, Yes
+^,a5,Schooling
+a,1, I have never been to school
+b,2, Preschool
+b,3, Elementary
+b,4, High School
+b,5, Senior High School
+b,6, Technical-vocational course
+b,7, College
+c,8, Other (please; specify)
+x,9, Prefer not to say
+^,b1,How old were you when you first used the internet?
+x,99, Prefer not to say
+^,b3,Are you able to access the internet when you want to or need to?
+a,1, Never
+b,2, Sometimes
+b,3, Often
+b,4, Always
+^,b6a,At school or college
+a,1, Never
+a,2, Hardly ever
+b,3, At least every month
+b,4, At least every week
+b,5, Daily or almost daily
+b,6, Several times each day
+b,7, Almost all the time
+x,8, Prefer not to say
+^,b6b,At home
+a,1, Never
+a,2, Hardly ever
+b,3, At least every month
+b,4, At least every week
+b,5, Daily or almost daily
+b,6, Several times each day
+b,7, Almost all the time
+x,8, Prefer not to say
+^,b6c,In the home of friends or relatives
+a,1, Never
+a,2, Hardly ever
+b,3, At least every month
+b,4, At least every week
+b,5, Daily or almost daily
+b,6, Several times each day
+b,7, Almost all the time
+x,8, Prefer not to say
+^,b6d,In a public place (for example; in libraries; cafés; computer shops)
+a,1, Never
+a,2, Hardly ever
+b,3, At least every month
+b,4, At least every week
+b,5, Daily or almost daily
+b,6, Several times each day
+b,7, Almost all the time
+x,8, Prefer not to say
+^,b6e,When I am on my way somewhere (e.g. on the street; in a bus or car)
+a,1, Never
+a,2, Hardly ever
+b,3, At least every month
+b,4, At least every week
+b,5, Daily or almost daily
+b,6, Several times each day
+b,7, Almost all the time
+x,8, Prefer not to say
+^,b6f,When I am somewhere by myself
+a,1, Never
+a,2, Hardly ever
+b,3, At least every month
+b,4, At least every week
+b,5, Daily or almost daily
+b,6, Several times each day
+b,7, Almost all the time
+x,8, Prefer not to say
+^,b6g,PisoNet
+a,1, Never
+a,2, Hardly ever
+b,3, At least every month
+b,4, At least every week
+b,5, Daily or almost daily
+b,6, Several times each day
+b,7, Almost all the time
+x,8, Prefer not to say
+^,b7a,A mobile phone that is not a smartphone
+a,1, Never
+a,2, Hardly ever
+b,3, At least every month
+b,4, At least every week
+b,5, Daily or almost daily
+b,6, Several times each day
+b,7, Almost all the time
+x,8, Prefer not to say
+^,b7b,A smartphone [iPhone; Samsung Galaxy; Cherry Mobile; Star Mobile; etc]
+a,1, Never
+a,2, Hardly ever
+b,3, At least every month
+b,4, At least every week
+b,5, Daily or almost daily
+b,6, Several times each day
+b,7, Almost all the time
+x,8, Prefer not to say
+^,b7c,A desktop computer
+a,1, Never
+a,2, Hardly ever
+b,3, At least every month
+b,4, At least every week
+b,5, Daily or almost daily
+b,6, Several times each day
+b,7, Almost all the time
+x,8, Prefer not to say
+^,b7d,A laptop or notebook computer
+a,1, Never
+a,2, Hardly ever
+b,3, At least every month
+b,4, At least every week
+b,5, Daily or almost daily
+b,6, Several times each day
+b,7, Almost all the time
+x,8, Prefer not to say
+^,b7e,A tablet [iPad; Samsung Galaxy tab; PLDT Home tablet; etc]
+a,1, Never
+a,2, Hardly ever
+b,3, At least every month
+b,4, At least every week
+b,5, Daily or almost daily
+b,6, Several times each day
+b,7, Almost all the time
+x,8, Prefer not to say
+^,b7f,A games console [Playstation; Xbox; PSP; Nintendo; 3DS; etc]
+a,1, Never
+a,2, Hardly ever
+b,3, At least every month
+b,4, At least every week
+b,5, Daily or almost daily
+b,6, Several times each day
+b,7, Almost all the time
+x,8, Prefer not to say
+^,b8a,A mobile phone that is not a smartphone
+a,1, No
+b,2, Yes
+x,3, Prefer not to say

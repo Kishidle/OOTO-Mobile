@@ -1,0 +1,20 @@
+^,a3a,Mother
+a,0, No
+b,1, Yes
+^,a3b,Father
+a,0, No
+b,1, Yes
+^,a3c,Step or foster mother
+a,0, No
+b,1, Yes
+^,a3d,Step or foster father
+a,0, No
+b,1, Yes
+^,a3e,Grandparent(s) or other relatives
+a,0, No
+b,1, Yes
+^,b3,Are you able to access the internet when you want to or need to?
+a,1, Never
+b,2, Sometimes
+b,3, Often
+b,4, Always
