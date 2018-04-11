@@ -1,4 +1,4 @@
-package com.example.user.otherproject;
+package com.example.user.ootomobile;
 
 import android.app.Activity;
 import android.content.res.AssetManager;
@@ -21,10 +21,10 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.user.otherproject.Controller.DBHelper;
-import com.example.user.otherproject.Model.Child;
-import com.example.user.otherproject.Model.Question;
-import com.example.user.otherproject.Model.ValueCounter;
+import com.example.user.ootomobile.Controller.DBHelper;
+import com.example.user.ootomobile.Model.Child;
+import com.example.user.ootomobile.Model.Question;
+import com.example.user.ootomobile.Model.ValueCounter;
 import com.github.mikephil.charting.charts.PieChart;
 import com.github.mikephil.charting.components.Description;
 import com.github.mikephil.charting.components.Legend;

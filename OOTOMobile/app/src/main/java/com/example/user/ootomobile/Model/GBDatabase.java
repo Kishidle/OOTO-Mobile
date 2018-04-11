@@ -1,4 +1,4 @@
-package com.example.user.otherproject.Model;
+package com.example.user.ootomobile.Model;
 
 /**
  * Created by Ramon on 2/11/2018.

@@ -1,4 +1,4 @@
-package com.example.user.otherproject;
+package com.example.user.ootomobile;
 
 import android.content.Intent;
 import android.content.res.AssetManager;
@@ -12,8 +12,8 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.user.otherproject.Model.Child;
-import com.example.user.otherproject.Model.Question;
+import com.example.user.ootomobile.Model.Child;
+import com.example.user.ootomobile.Model.Question;
 
 import java.io.BufferedReader;
 import java.io.File;

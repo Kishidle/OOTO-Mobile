@@ -1,4 +1,4 @@
-package com.example.user.otherproject;
+package com.example.user.ootomobile;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

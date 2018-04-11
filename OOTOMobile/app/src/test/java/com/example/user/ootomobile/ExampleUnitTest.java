@@ -1,4 +1,4 @@
-package com.example.user.otherproject;
+package com.example.user.ootomobile;
 
 import org.junit.Test;
 
